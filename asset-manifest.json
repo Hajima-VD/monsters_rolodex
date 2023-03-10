@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Hajima-VD/monsters_rolodex/static/css/main.073c9b0a.css",
-    "main.js": "/Hajima-VD/monsters_rolodex/static/js/main.8b2a89c2.js",
+    "main.css": "/Hajima-VD/monsters_rolodex/static/css/main.7588102d.css",
+    "main.js": "/Hajima-VD/monsters_rolodex/static/js/main.ee4a6aae.js",
     "static/js/787.e4e9b7ff.chunk.js": "/Hajima-VD/monsters_rolodex/static/js/787.e4e9b7ff.chunk.js",
     "index.html": "/Hajima-VD/monsters_rolodex/index.html",
-    "main.073c9b0a.css.map": "/Hajima-VD/monsters_rolodex/static/css/main.073c9b0a.css.map",
-    "main.8b2a89c2.js.map": "/Hajima-VD/monsters_rolodex/static/js/main.8b2a89c2.js.map",
+    "main.7588102d.css.map": "/Hajima-VD/monsters_rolodex/static/css/main.7588102d.css.map",
+    "main.ee4a6aae.js.map": "/Hajima-VD/monsters_rolodex/static/js/main.ee4a6aae.js.map",
     "787.e4e9b7ff.chunk.js.map": "/Hajima-VD/monsters_rolodex/static/js/787.e4e9b7ff.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.8b2a89c2.js"
+    "static/css/main.7588102d.css",
+    "static/js/main.ee4a6aae.js"
   ]
 }
